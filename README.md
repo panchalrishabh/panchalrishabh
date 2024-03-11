@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @panchalrishabh
-- 👀 I'm a passionate data scientist and coding enthusiast
+- 👀 I'm a coding enthusiast and working as a data scientist (currently)
 - 🌱 I’m currently learning on deep learning and NLP
 - 💞️ I’m looking to collaborate on any Data Science Project
 - 📫 Connect with Me
